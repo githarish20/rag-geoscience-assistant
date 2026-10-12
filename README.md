@@ -146,7 +146,7 @@ Inspired by the research paper:
 ## 👤 Author
 
 **Paras Lad**  
-[GitHub](https://github.com/Paras8-3-4)
+[GitHub](https://github.com/harishwani20
 
 ---
 
